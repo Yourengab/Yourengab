@@ -1,9 +1,6 @@
 Hi 👋 My name is Suryadana
 ==========================
 
-Web developer | Web designer
-----------------------------
-
 * 🌍  I'm based in Bali
 * ✉️  You can contact me at [yourenw1@gmail.com](mailto:yourenw1@gmail.com)
 * 🧠  I'm learning Tailwind & Advance javascript
