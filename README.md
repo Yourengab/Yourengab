@@ -5,7 +5,6 @@ Hi 👋 My name is Suryadana
 * ✉️  You can contact me at [yourenw1@gmail.com](mailto:yourenw1@gmail.com)
 * 🧠  I'm learning Tailwind & Advance javascript
 * 🤝  I'm open to collaborating on Web design
-* ⚡  I have cancer
 
 ### Socials
 
