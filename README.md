@@ -3,7 +3,7 @@ Hi 👋 My name is Suryadana
 
 * 🌍  I'm based in Bali
 * ✉️  You can contact me at [yourenw1@gmail.com](mailto:yourenw1@gmail.com)
-* 🧠  I'm learning Tailwind & Advance javascript
+* 🧠  I'm currently learning Advance javascript
 * 🤝  I'm open to collaborating on Web design
 
 <b>My GitHub Stats</b>
