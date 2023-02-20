@@ -1,5 +1,4 @@
 Hi 👋 My name is Suryadana
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Yourengab&label=Profile%20Views&color=0eb429&style=flat-square" alt="mezzky"/> </p>
 ==========================
 
 * 🌍  I'm based in Bali
