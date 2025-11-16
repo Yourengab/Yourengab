@@ -2,7 +2,7 @@ Hi 👋 My name is Suryadana
 ==========================
 
 * 🌍  I'm based in Bali
-* ✉️  You can contact me at [yourenw1@gmail.com](mailto:yourenw1@gmail.com)
+* ✉️  You can contact me at [suryadanaw1@gmail.com](mailto:suryadanaw9@gmail.com)
 * 🧠  I'm currently learning Advance javascript
 * 🤝  I'm open to collaborating on Web design
 
